@@ -16,7 +16,7 @@ linkedin.com/in/jovandavid
 @jovandavid (X)
 
 <div id="header" align="center">
-  <img src="http://tinyurl.com/jovan-photo" width="100"/>
+  <img src="https://drive.google.com/file/d/1Fz8VVAP9QTC_IYHD5s3pYNhRMAahLfkw/view?usp=sharing" width="100"/>
 </div>
 
 <!--
