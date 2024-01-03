@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://drive.google.com/file/d/1_1GBoFPKY_VCLI5rPHXxdL247WEgpyt0/view?usp=sharing" width="100"/>
+  <img src="https://drive.google.com/file/d/1lAG-XqeGtTFbv4wEpM8l3iwvvEcWHgSI/" width="100"/>
 </div>
 
 
