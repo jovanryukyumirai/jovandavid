@@ -1,4 +1,23 @@
 ### Hi there 👋
+# AI
+
+# 👯 I’m looking to collaborate on ...
+
+# 🤔 I’m looking for help with ...
+
+# Current Projects
+
+# 💬 Ask me about ...
+
+# 📫 How to reach me: ...
+jovandavid@g...l.com
+jovandavid.com
+linkedin.com/in/jovandavid
+@jovandavid (X)
+
+<div id="header" align="center">
+  <img src="http://tinyurl.com/jovan-photo" width="100"/>
+</div>
 
 <!--
 **jovandavid/jovandavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
